@@ -1,2 +1,7 @@
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+## Kodluyoruz
+* Clock
+
+***bold***
+-----------
+------------
+![Lorem Picsum](https://google.com)
